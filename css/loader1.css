@@ -8,7 +8,7 @@
 
 .circle {
     display: inline-block;
-    background-color: purple;
+    background-color: red;
     height: 40px;
     width: 40px;
     border-radius: 50%;
@@ -18,7 +18,7 @@
 }
 
 .circle:nth-child(2) {
-    background-color: orange;
+    background-color: black;
     animation-delay: 0.75s;
 }
 
